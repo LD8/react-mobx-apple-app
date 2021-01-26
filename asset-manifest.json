@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-mobx-apple-app/static/css/main.77997688.chunk.css",
+    "main.js": "/react-mobx-apple-app/static/js/main.bfc668a6.chunk.js",
+    "main.js.map": "/react-mobx-apple-app/static/js/main.bfc668a6.chunk.js.map",
+    "runtime-main.js": "/react-mobx-apple-app/static/js/runtime-main.7c3f11d1.js",
+    "runtime-main.js.map": "/react-mobx-apple-app/static/js/runtime-main.7c3f11d1.js.map",
+    "static/js/2.c6ee563d.chunk.js": "/react-mobx-apple-app/static/js/2.c6ee563d.chunk.js",
+    "static/js/2.c6ee563d.chunk.js.map": "/react-mobx-apple-app/static/js/2.c6ee563d.chunk.js.map",
+    "index.html": "/react-mobx-apple-app/index.html",
+    "precache-manifest.59f4a4aceadb935324178c0c5782243a.js": "/react-mobx-apple-app/precache-manifest.59f4a4aceadb935324178c0c5782243a.js",
+    "service-worker.js": "/react-mobx-apple-app/service-worker.js",
+    "static/css/main.77997688.chunk.css.map": "/react-mobx-apple-app/static/css/main.77997688.chunk.css.map",
+    "static/js/2.c6ee563d.chunk.js.LICENSE.txt": "/react-mobx-apple-app/static/js/2.c6ee563d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c3f11d1.js",
+    "static/js/2.c6ee563d.chunk.js",
+    "static/css/main.77997688.chunk.css",
+    "static/js/main.bfc668a6.chunk.js"
+  ]
+}
