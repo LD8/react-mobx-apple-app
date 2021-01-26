@@ -2,10 +2,12 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './components/App'
 import './styles.css'
+import todo from './stores/TodoStore'
+import { Provider } from 'mobx-react'
 
 ReactDOM.render(
-  <React.StrictMode>
+  <Provider todo={todo}>
     <App />
-  </React.StrictMode>,
+  </Provider>,
   document.getElementById('root'),
 )
